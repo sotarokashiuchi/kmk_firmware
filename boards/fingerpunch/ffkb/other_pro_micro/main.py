@@ -11,8 +11,6 @@ from kmk.modules.layers import Layers
 from kmk.modules.mouse_keys import MouseKeys
 
 keyboard = KMKKeyboard()
-keyboard.tap_time = 150
-keyboard.debug_enabled = False
 
 # Cleaner key names
 _______ = KC.TRNS
